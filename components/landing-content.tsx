@@ -10,23 +10,12 @@ const testimonials = [
         description: "This is the best application I've used!"
     },
     {
-        name: "Damian",
-        avatar: "D",
-        title: "Fullstack Developer",
-        description: "This is the best application I've used!"
+        name: "John",
+        avatar: "J",
+        title: "Software Developer",
+        description: "All what I need in one place!"
     },
-    {
-        name: "Damian",
-        avatar: "D",
-        title: "Fullstack Developer",
-        description: "This is the best application I've used!"
-    },
-    {
-        name: "Damian",
-        avatar: "D",
-        title: "Fullstack Developer",
-        description: "This is the best application I've used!"
-    },
+
 ]
 
 export const LandingContent = () => {
